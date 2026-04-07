@@ -1,7 +1,12 @@
 aid: momentive-performance-materials
-url: https://raw.githubusercontent.com/api-evangelist/momentive-performance-materials/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/momentive-performance-materials/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.momentive-performance-materials.com
+description: >-
+  Momentive Performance Materials is a global silicones and advanced materials company
+  that produces specialty silicones, urethane additives, and quartz technologies for
+  industrial and consumer markets.
