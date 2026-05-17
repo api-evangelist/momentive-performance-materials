@@ -4,7 +4,7 @@ description: >-
   Momentive Performance Materials is a global silicones and advanced materials company
   that produces specialty silicones, urethane additives, and quartz technologies for
   industrial and consumer markets.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
