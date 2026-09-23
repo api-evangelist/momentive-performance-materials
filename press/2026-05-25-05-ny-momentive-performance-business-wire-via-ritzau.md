@@ -1,7 +1,9 @@
 ---
 title: NY-MOMENTIVE-PERFORMANCE | Business Wire - Via Ritzau
 url: https://via.ritzau.dk/pressemeddelelse/3774435/ny-momentive-performance?publisherId=90456
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Momentive Performance Materials" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Piper Sandler Advises Momentive Performance Materials ...
 url: https://www.sttinfo.fi/tiedote/69885989/piper-sandler-advises-momentive-performance-materials-on-the-sale-of-its-consumer-sealants-business-to-henkel-corporation?publisherId=58763726
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Momentive Performance Materials" press release artificial intelligence'
 position: 3
 source: serpapi-google
